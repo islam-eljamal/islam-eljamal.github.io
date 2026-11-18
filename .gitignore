@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+# secrets: never commit
+.env
+.env.*
+*.pem
+*.key
+# local tooling
+.taste-skill/
+shots/
